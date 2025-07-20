@@ -19,14 +19,14 @@ local function runAppropriateScript()
         return true
     end
     
-    for groupName, groupData in pairs(gameGroups) do
-        for _, id in pairs(groupData.ids) do
-            if gameId == id then
-                loadstring(game:HttpGet(groupData.url, true))()
-                return true
-            end
-        end
-    end
+    -- for groupName, groupData in pairs(gameGroups) do
+    --     for _, id in pairs(groupData.ids) do
+    --         if gameId == id then
+    --             loadstring(game:HttpGet(groupData.url, true))()
+    --             return true
+    --         end
+    --     end
+    -- end
     
     return false
 end
