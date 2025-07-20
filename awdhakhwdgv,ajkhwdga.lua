@@ -3,7 +3,7 @@ local function runAppropriateScript()
     local gameId = game.PlaceId
     
     local scripts = {
-        [17534163435] = "https://raw.githubusercontent.com/jkancc111/Games-V2/main/DungeonRNG.txt"
+        [17534163435] = "https://raw.githubusercontent.com/jkancc111/GamesV2.5/refs/heads/main/DungeonRNG.lua"
     }
     -- local gameGroups = {
     --     ["Blox Fruits"] = {
