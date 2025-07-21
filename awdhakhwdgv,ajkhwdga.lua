@@ -3,7 +3,7 @@ local function runAppropriateScript()
     local gameId = game.PlaceId
     
     local scripts = {
-        [17534163435] = "https://raw.githubusercontent.com/jkancc111/GamesV2.5/refs/heads/main/DungeonRNG.lua"
+        [17534163435] = "https://raw.githubusercontent.com/jkancc111/GamesV2.5/refs/heads/main/DungeonRNG.lua",
     [124180759222403] = "https://raw.githubusercontent.com/jkancc111/GamesV2.5/main/Ants.lua",
     [109983668079237] = "https://raw.githubusercontent.com/jkancc111/GamesV2.5/main/test.lua",
     }
