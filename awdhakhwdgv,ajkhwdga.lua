@@ -35,7 +35,3 @@ local success, err = pcall(runAppropriateScript)
 if not success then
     warn("Error while running script: " .. tostring(err))
 end
-
-local scripts = {
-    [124180759222403] = "https://raw.githubusercontent.com/jkancc111/GamesV2.5/main/Ants.lua",
-}
