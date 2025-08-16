@@ -6,6 +6,7 @@ local function runAppropriateScript()
         [17534163435] = "https://raw.githubusercontent.com/jkancc111/GamesV2.5/refs/heads/main/DungeonRNG.lua",
     [124180759222403] = "https://raw.githubusercontent.com/jkancc111/GamesV2.5/main/Ants.lua",
     [17126500142] = "https://raw.githubusercontent.com/jkancc111/GamesV2.5/main/AbyssMines.lua",
+    [75948699874267] = "https://raw.githubusercontent.com/jkancc111/GamesV2.5/main/DropAPoop.lua",
     }
     -- local gameGroups = {
     --     ["Blox Fruits"] = {
